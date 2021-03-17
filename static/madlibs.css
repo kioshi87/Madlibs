@@ -1,0 +1,14 @@
+
+p.dotted {border-style: dotted;}
+
+
+p {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+body {
+    background-image: url("Users/src/dlibs");
+}

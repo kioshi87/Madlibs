@@ -1,0 +1,7 @@
+p {
+    color: green;
+    font-family: Georgia;
+    text-align: center;
+    background-image: url("Users/src/dlibs");
+}
+p.dotted {border-style: dotted;}
